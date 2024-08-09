@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OkpePhillips
 - 👀 I’m interested in meeting amazing developers
-- 🌱 I’m currently learning full stack development 
+- 🌱 I’m a graduate of #ALX Software engineering program 
 - 💞️ I’m looking to collaborate on any amazing projects that benefit humanity.
 - 📫 You can reach me on Okpegodwin18@yahoo.com or +2348122694518
 
